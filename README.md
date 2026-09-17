@@ -6,9 +6,6 @@ The **CFPB Consumer Complaint Analysis Dashboard** is an interactive Power BI da
 
 The dashboard is designed to transform raw consumer complaint data into an easy-to-understand business intelligence solution that can help stakeholders identify complaint patterns, monitor operational performance, understand customer issues, and explore potential areas for deeper root-cause and predictive analysis.
 
-![CFPB Consumer Complaint Analysis Dashboard](<img width="1957" height="1096" alt="CFPB_preview" src="https://github.com/user-attachments/assets/1ad0c3c9-3a4b-4496-be69-e31509997038" />
-)
-
 ---
 
 ## 🎯 Project Objective
@@ -33,8 +30,6 @@ The first analytical section focuses on understanding where complaints are conce
 
 Together, these visualizations provide an overview of the major sources of complaint activity and help answer questions such as which products generate the highest number of complaints, which states have the highest complaint volumes, and what issues are most commonly reported.
 
-![Product, State and Issue Analysis](Screenshots/cfpb-product-state-issue.png)
-
 ---
 
 ## 📈 Complaint Trends & Geographic Distribution
@@ -42,8 +37,6 @@ Together, these visualizations provide an overview of the major sources of compl
 The **Total Complaints by Year** visualization tracks complaint volumes from 2017 through 2023. This time-series analysis makes it possible to observe changes in complaint activity across different years and identify periods where complaint volumes increased or decreased.
 
 The dashboard also includes a **Complaint Distribution by State** map, providing a geographic view of complaint activity across the United States. This allows users to visually identify areas with relatively higher concentrations of complaints.
-
-![Complaint Trend and Geographic Distribution](Screenshots/cfpb-trend-map.png)
 
 ---
 
@@ -54,8 +47,6 @@ Customer response performance is another important component of the dashboard. T
 The **Complaint Resolution Types** visualization analyzes how companies responded to complaints, including categories such as closed with explanation, closed with monetary relief, closed with non-monetary relief, in progress, and closed. The **Complaint Submission Channels** visualization shows how consumers submitted complaints through channels such as web, referral, phone, and postal mail.
 
 This section helps connect complaint volume with customer service and operational performance.
-
-![Resolution, Submission Channels and Timely Response](Screenshots/cfpb-resolution-response.png)
 
 ---
 
