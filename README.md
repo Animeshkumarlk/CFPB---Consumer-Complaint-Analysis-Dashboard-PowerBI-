@@ -6,7 +6,8 @@ The **CFPB Consumer Complaint Analysis Dashboard** is an interactive Power BI da
 
 The dashboard is designed to transform raw consumer complaint data into an easy-to-understand business intelligence solution that can help stakeholders identify complaint patterns, monitor operational performance, understand customer issues, and explore potential areas for deeper root-cause and predictive analysis.
 
-![CFPB Consumer Complaint Analysis Dashboard](Screenshots/cfpb-dashboard-full.png)
+![CFPB Consumer Complaint Analysis Dashboard](<img width="1957" height="1096" alt="CFPB_preview" src="https://github.com/user-attachments/assets/1ad0c3c9-3a4b-4496-be69-e31509997038" />
+)
 
 ---
 
